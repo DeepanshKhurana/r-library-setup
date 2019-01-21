@@ -1,7 +1,7 @@
 #Linux Dependencies: libssl-dev, libcurl4-openssl-dev and libxml2-dev, unixodbc-dev
 
 wrangling <- c("tidyverse", "gsubfn", "googlesheets", "stringr", "stringi", "readr", "jsonlite", "data.table", "lubridate")
-analysis <- c("MASS", "caret", "CARS", "sqldf")
+analysis <- c("MASS", "caret", "CARS", "sqldf", "tseries", "forecast")
 graphics <- c("ggmap", "gridExtra", "RColorBrewer", "scales")
 sql <- c("RSQLite", "odbc")
 python <- c("reticulate")
